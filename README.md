@@ -57,4 +57,7 @@ Make an account and generate your TMDB API key and substitute it over mine.
 
 ## Screenshots:
 
+/Layout.png
+
+/
 
