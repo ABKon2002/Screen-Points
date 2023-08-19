@@ -55,9 +55,3 @@ The **Screen Points** project was conceived with the aim of creating a user-cent
 
 Make an account and generate your TMDB API key and substitute it over mine.
 
-## Screenshots:
-
-/Layout.png
-
-/
-
