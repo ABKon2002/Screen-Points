@@ -1,5 +1,5 @@
 # Screen-Points
-The Movie Review Hub is a dynamic full-stack web application that brings movie enthusiasts together to share their opinions, discover new films, and engage in meaningful discussions. This platform integrates cutting-edge technologies, including HTML, CSS, JavaScript, Node.js, Express, MongoDB Atlas, and the MovieDB API, to create a seamless and immersive experience.
+Screen Points is a dynamic full-stack web application that brings movie enthusiasts together to share their opinions, discover new films, and engage in meaningful discussions. This platform integrates cutting-edge technologies, including HTML, CSS, JavaScript, Node.js, Express, MongoDB Atlas, and the MovieDB API, to create a seamless and immersive experience.
 
 ## Table of Contents
 
