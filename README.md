@@ -25,7 +25,7 @@ The **Screen Points** project was conceived with the aim of creating a user-cent
 
 * Real-time Movie Data: Leveraging the power of TMDB API, the website dynamically fetches up-to-date information about movies, including titles and images.
 
-* Interactive Reviews: Registered users can post their own reviews for movies they've watched. They can also view, update, and delete their reviews, fostering a sense of community and interaction.
+* Interactive Reviews: Users can post their own reviews for movies they've watched. They can also view, update, and delete their reviews, fostering a sense of community and interaction.
 
 * Authentication and Security: The backend, built using Node.js and Express, employs secure authentication mechanisms to protect user data and ensure a safe environment for sharing opinions.
 
