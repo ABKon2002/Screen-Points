@@ -10,8 +10,6 @@ Screen Points is a dynamic full-stack web application that brings movie enthusia
 - [Setup](#setup)
 - [Usage](#usage)
 - [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
